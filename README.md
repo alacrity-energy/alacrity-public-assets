@@ -1,2 +1,2 @@
 # public-assets
-public assets used for my various projects
+public assets used for various projects
